@@ -1,6 +1,6 @@
 {
   "name": "deku-component-find-all",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Traverse a Deku component tree and return all components that satisfy a function",
   "main": "index.js",
   "scripts": {
@@ -30,6 +30,6 @@
     "virtual-element": "^1.2.0"
   },
   "dependencies": {
-    "deku-is-node": "^1.0.0"
+    "deku-component-is-node": "^1.0.0"
   }
 }
