@@ -1,5 +1,5 @@
 {
-  "name": "deku-find-all",
+  "name": "deku-component-find-all",
   "version": "1.0.0",
   "description": "Traverse a Deku component tree and return all components that satisfy a function",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kvnneff/deku-find-all.git"
+    "url": "git+https://github.com/kvnneff/deku-component-find-all.git"
   },
   "keywords": [
     "deku",
@@ -20,9 +20,9 @@
   "author": "Kevin Neff",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kvnneff/deku-find-all/issues"
+    "url": "https://github.com/kvnneff/deku-component-find-all/issues"
   },
-  "homepage": "https://github.com/kvnneff/deku-find-all#readme",
+  "homepage": "https://github.com/kvnneff/deku-component-find-all#readme",
   "devDependencies": {
     "assert-element": "^0.3.1",
     "component-mock": "0.0.2",

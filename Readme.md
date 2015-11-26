@@ -1,4 +1,4 @@
-# deku-find-all [![Build Status](https://travis-ci.org/kvnneff/deku-find-all.svg?branch=master)](https://travis-ci.org/kvnneff/deku-find-all)
+# deku-component-find-all [![Build Status](https://travis-ci.org/kvnneff/deku-component-find-all.svg?branch=master)](https://travis-ci.org/kvnneff/deku-component-find-all)
 
 Traverse a [Deku](https://github.com/dekujs/deku) component tree and return all components that satisfy a function.
 
@@ -7,7 +7,7 @@ Inspired by [react-shallow-testutils](https://github.com/sheepsteak/react-shallo
 ## Example
 
 ```js
-import findAll from 'deku-find-all'
+import findAll from 'deku-component-find-all'
 import element from 'virtual-element'
 import Mock from 'component-mock'
 

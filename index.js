@@ -1,4 +1,4 @@
-var isNode = require('deku-is-node')
+var isNode = require('deku-component-is-node')
 
 /**
  * Traverses the tree and returns all components that satisfy the function `test`.
